@@ -1,3 +1,4 @@
+![logo](https://github.com/AX19BC/AX19BC/blob/main/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 <h1 align="center">Hi 👋, I'm Nejc</h1>
 <h3 align="center">A passionate frontend and backend developer from Slovenia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
